@@ -1,0 +1,16 @@
+{
+  "name": "mterm-ext-template",
+  "version": "1.0.0",
+  "description": "A template for creating [mterm](https://github.com/mterm-io/mterm) extensions",
+  "main": "mterm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mterm-io/mterm-ext-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
